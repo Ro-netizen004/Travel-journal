@@ -16,12 +16,6 @@ A simple and responsive travel journal built with React, showcasing memorable de
 
 ---
 
-## 🖼️ Preview
-
-![Travel Journal Screenshot](./images/screenshot.png)  
-> Add your own screenshot of the app here
-
----
 
 ## 🛠️ Technologies Used
 
