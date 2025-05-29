@@ -1,0 +1,87 @@
+html, body{
+  margin:0;
+  display: flex;
+  font-family: inter,sans-serif;
+  flex-direction: column;
+}
+
+header{
+  background-color: #f55a5a;
+  height: 55px;
+  width: 100vw;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+
+main {
+  flex: 1;
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-content p{
+  font-size: smaller;
+  line-height: 1.6;
+}
+
+.location-container p{
+  font-size: x-small;
+}
+
+span{
+  font-family: inter;
+  font-weight: 500;
+}
+
+.logo-img{
+  width: 24px;
+  height: 24px;
+}
+
+.country-img{
+  width: 125px;
+  height: 168px;
+  border-radius: 15px;
+  flex-shrink: 0; 
+}
+
+.content-container{
+  height: 168px;
+}
+
+article{
+  width: 595px;
+  height: 168px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+h3{
+  padding: 0;
+  margin: 0%;
+}
+.location-container{
+  display: flex;
+  align-items: center;
+  gap:8px;
+}
+
+a{
+  color: gray;
+  font-size: x-small;
+}
+
+.marker{
+  height: 9.55px;
+  width: 7px;
+}
