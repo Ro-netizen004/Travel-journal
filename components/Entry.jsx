@@ -8,7 +8,7 @@ export function Entry(props){
                     <div className="location-container">
                         <img alt="marker logo" className="marker" src={marker} />
                         <p>{props.item.country}</p>
-                        <a href={props.item.link} target="_blank">View on Google Maps</a>
+                        <a href={props.item.googleMapsLink} target="_blank">View on Google Maps</a>
                     </div>
                     <div className="text-content">
                         <h3>{props.item.title}</h3>
