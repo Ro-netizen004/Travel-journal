@@ -1,4 +1,5 @@
 # React + Vite
+Link to site: https://wonderful-unicorn-a4e09c.netlify.app/
 # 🌍 Travel Journal React App
 
 A simple and responsive travel journal built with React, showcasing memorable destinations using cards. This project was inspired by a Scrimba React course and serves as a practice for working with components, props, mapping over data, and structuring project folders.
